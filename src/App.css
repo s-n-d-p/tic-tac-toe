@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.BoardButton {
+  height: 50px;
+  width: 50px;
+}
+
+.ResetButton {
+  width: 150px;
+}
